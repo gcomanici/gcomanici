@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gcomanici
+- 👀 I’m interested in Reinforcement Learning
+- 🌱 I’m currently learning Predictive Coding
